@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dd46a9f0-67d2-4da6-915b-720d5a9f0b63" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/demo_images/object_detection_in_images_demo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/object_detection_in_images_demo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selecting_object_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selecting_object_2.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
